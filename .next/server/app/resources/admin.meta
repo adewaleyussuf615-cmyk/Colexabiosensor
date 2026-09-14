@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/resources/layout,_N_T_/resources/admin/layout,_N_T_/resources/admin/page,_N_T_/resources/admin"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/resources/admin/__PAGE__",
+    "/resources/admin",
+    "/resources",
+    "/_index"
+  ]
+}

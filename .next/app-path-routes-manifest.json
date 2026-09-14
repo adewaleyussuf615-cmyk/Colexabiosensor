@@ -1,0 +1,10 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/our-story/page": "/our-story",
+  "/page": "/",
+  "/resources/[slug]/page": "/resources/[slug]",
+  "/resources/admin/login/page": "/resources/admin/login",
+  "/resources/admin/page": "/resources/admin",
+  "/resources/page": "/resources"
+}
