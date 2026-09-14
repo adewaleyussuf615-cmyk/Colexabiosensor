@@ -1,5 +1,0 @@
-1:"$Sreact.fragment"
-2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
-3:"$Sreact.suspense"
-0:{"buildId":"j8SH7vBzJ3wqp6aCyYuGT","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"login-page","children":["$","div",null,{"className":"container","children":["$","div",null,{"className":"login-box","children":[["$","p",null,{"className":"eyebrow","children":"Content writer login"}],["$","h1",null,{"style":{"marginTop":10,"fontSize":"clamp(2.1rem, 5vw, 3rem)"},"children":"Access the admin area"}],["$","form",null,{"children":[["$","label",null,{"children":["Email",["$","input",null,{"type":"email","name":"email","placeholder":"writer@colexa.com"}]]}],["$","label",null,{"children":["Password",["$","input",null,{"type":"password","name":"password","placeholder":"••••••••"}]]}],["$","button",null,{"type":"submit","className":"primary-btn","children":"Sign in"}]]}]]}]}]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
-4:null

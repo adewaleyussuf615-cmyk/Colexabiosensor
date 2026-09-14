@@ -1,3 +1,0 @@
-module.exports=[30015,a=>{a.v({className:"lato_2b9e1686-module__AKkIgW__className",variable:"lato_2b9e1686-module__AKkIgW__variable"})},33290,a=>{"use strict";var b=a.i(7997),c=a.i(30015);let d={className:c.default.className,style:{fontFamily:"'Lato', 'Lato Fallback'",fontStyle:"normal"}};function e({children:a}){return(0,b.jsx)("html",{lang:"en",className:d.variable,children:(0,b.jsx)("body",{children:a})})}null!=c.default.variable&&(d.variable=c.default.variable),a.s(["default",()=>e,"metadata",0,{title:{default:"Colexa Biosensor",template:"%s | Colexa Biosensor"},description:"Colexa Biosensor delivers medical devices and in-vitro diagnostics made in Nigeria."}],33290)}];
-
-//# sourceMappingURL=%5Broot-of-the-server%5D__85af1acb._.js.map
