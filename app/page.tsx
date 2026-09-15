@@ -58,7 +58,10 @@ export default async function HomePage() {
                 <span className="product-meta">Home use</span>
                 <h3>OnPoint GH82 Monitoring System</h3>
                 <p>A blood glucose monitoring system designed for everyday use in home health routines and clinical settings.</p>
-                <Link href="/resources/onpoint-gh82-monitoring-system" target="_blank" rel="noreferrer" className="link-row">View Product <span aria-hidden="true">↗</span></Link>
+                <div className="product-actions">
+                  <Link href="/resources/onpoint-gh82-monitoring-system" target="_blank" rel="noreferrer" className="link-row">View Product <span aria-hidden="true">↗</span></Link>
+                  <Link href="https://winwell.ng/product/onpoint-glucometer-strips/" className="primary-btn">Buy Now</Link>
+                </div>
               </div>
             </article>
 
@@ -70,7 +73,10 @@ export default async function HomePage() {
                 <span className="product-meta">Home use</span>
                 <h3>OnPoint GH82 Test Strip</h3>
                 <p>For quantitative measurement of glucose in fresh capillary whole blood using the OnPoint GH82 system.</p>
-                <Link href="/resources/onpoint-gh82-test-strip" target="_blank" rel="noreferrer" className="link-row">View Product <span aria-hidden="true">↗</span></Link>
+                <div className="product-actions">
+                  <Link href="/resources/onpoint-gh82-test-strip" target="_blank" rel="noreferrer" className="link-row">View Product <span aria-hidden="true">↗</span></Link>
+                  <Link href="https://winwell.ng/product/onpoint-glucometer-strips/" className="primary-btn">Buy Now</Link>
+                </div>
               </div>
             </article>
 
@@ -82,7 +88,10 @@ export default async function HomePage() {
                 <span className="product-meta">Professional use</span>
                 <h3>STANDARD™ Q HIV 1/2 Ab 3-Line Test</h3>
                 <p>A rapid chromatographic immunoassay for the qualitative detection of HIV antibodies.</p>
-                <Link href="/resources/standard-q-hiv-1-2-ab-3-line-test" target="_blank" rel="noreferrer" className="link-row">View Product <span aria-hidden="true">↗</span></Link>
+                <div className="product-actions">
+                  <Link href="/resources/standard-q-hiv-1-2-ab-3-line-test" target="_blank" rel="noreferrer" className="link-row">View Product <span aria-hidden="true">↗</span></Link>
+                  <Link href="#contact" className="primary-btn">Buy Now</Link>
+                </div>
               </div>
             </article>
           </div>

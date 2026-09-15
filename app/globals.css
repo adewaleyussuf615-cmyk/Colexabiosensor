@@ -343,6 +343,19 @@ button, input, select, textarea { font: inherit; }
   color: var(--green);
 }
 
+.product-actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  margin-top: auto;
+}
+
+.product-actions .primary-btn {
+  padding: 10px 16px;
+  font-size: 0.9rem;
+}
+
 .quality-band {
   background: #eef5f0;
   border-top: 1px solid var(--line);
